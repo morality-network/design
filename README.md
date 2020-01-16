@@ -1,6 +1,7 @@
 <p align="center">
-{  
-![](Reward%20GIF%20white.gif)
+{
+  ![](Reward%20GIF%20white.gif)
+
 
 # Design 1.0 
 
