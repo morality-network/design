@@ -1,4 +1,4 @@
-![](Morality%20Design%20.gifs=200)
+![](Morality%20Design%20.gif&s=200)
 
 # Design 1.0 
 
