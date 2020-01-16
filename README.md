@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" height="160" src="https://giphy.com/embed/fSALwvtxHg2KKBp4tx">
+  <img width="180" height="160" src="https://giphy.com/embed/SV0237fugVVZAfJChS">
 </p>
 
 # Design 1.0 
