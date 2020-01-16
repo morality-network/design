@@ -1,4 +1,4 @@
-![](Morality%20Design%20.gif | width=100)
+![](Morality%20Design%20.gif){:height="100px" width="100px"}
 
 # Design 1.0 
 
