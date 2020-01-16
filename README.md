@@ -1,6 +1,4 @@
-<p align="center">
 ![](Morality%20Design.gif)
- </p>
 
 # Design 1.0 
 
