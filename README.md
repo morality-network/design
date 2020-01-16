@@ -1,4 +1,4 @@
-![](Reward%20GIF%20white.gif) ![](Black%20Logo%20GIF.gif)
+![](Reward%20GIF%20white.gif)
 
 # Design 1.0 
 
