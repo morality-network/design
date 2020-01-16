@@ -1,8 +1,6 @@
 <style>
 p {
 text-align: center;
-}
-
 
 ![](Morality%20Design.gif)
 
@@ -13,5 +11,7 @@ This project serves as playground for some of our ideas. It also serves as a bas
 Guidelines for community members will be released alongside the network on 05/11/20. These guidelines will help individuals and organisations create content within Morality or use our design and guidelines in their own 3rd party applications.
 
 ![](Reward%20GIF%20white.gif)
+
+}
 
 </style>
