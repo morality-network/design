@@ -1,10 +1,6 @@
-<style>
-p {
-text-align: center;
+# Design 1.0 
 
 ![](Morality%20Design.gif)
-
-# Design 1.0 
 
 This project serves as playground for some of our ideas. It also serves as a baseline for our final application/s. At the moment, this is designed in Sketch and we are prototyping within the co-operative using invision. 
 
