@@ -1,6 +1,6 @@
-# Design 1.0 
+![](Morality%20Design%20.gif | width=100)
 
-![](Morality%20Design%20.gif)
+# Design 1.0 
 
 This project serves as playground for some of our ideas. It also serves as a baseline for our final application/s. The current iteration of Morality 1.0 is designed in Sketch and being prototyping within the co-operative using invision. 
 
