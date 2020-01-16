@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" height="160" src="https://loading.io/asset/333930">
+  <img width="180" height="160" src="https://giphy.com/embed/fSALwvtxHg2KKBp4tx">
 </p>
 
 # Design 1.0 
