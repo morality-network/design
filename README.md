@@ -1,3 +1,8 @@
+<style>
+p {
+text-align: center;
+}
+
 
 ![](Morality%20Design.gif)
 
@@ -9,3 +14,4 @@ Guidelines for community members will be released alongside the network on 05/11
 
 ![](Reward%20GIF%20white.gif)
 
+</style>
